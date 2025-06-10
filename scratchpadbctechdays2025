@@ -1,0 +1,2 @@
+formatDateTime(concat(triggerBody()?['date_1'], 'T', triggerBody()?['text_3']), 'yyyy-MM-ddTHH:mm:ss')
+
