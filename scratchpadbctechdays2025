@@ -1,2 +1,18 @@
-formatDateTime(concat(triggerBody()?['date_1'], 'T', triggerBody()?['text_3']), 'yyyy-MM-ddTHH:mm:ss')
+PowerFx Expression to convert Date and Time strings into a DateTime format
 
+formatDateTime(concat(triggerBody()?['date_1'], ' ', triggerBody()?['text_3']), 'yyyy-MM-ddTHH:mm:ss')
+
+Explanation
+===========
+
+formatDateTime << Converts the string expression to a Date and Time expression
+
+concat << Concatanate (join) two expressions
+
+triggerBody()?['date_1']  << This expression is populated by Dynamic Content reference from the string version of the Date
+
+triggerBody()?['text_3']) << This expression is populated by Dynamic Content reference from the string version of the Time
+
+'yyyy-MM-ddTHH:mm:ss'  << This expression shows the format we want our expression in
+
+  
