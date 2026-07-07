@@ -9,3 +9,6 @@ balancedue gt 5500
 balancedue lt 5500
 contains(username,'ansari')
 contains(tolower(username),tolower('ansari')
+
+An ODATA filter query that filters employee records by email. If the user's email xyz@abc.com, then the filter is:
+tolower(email) eq tolower('xyz@abc.com')
