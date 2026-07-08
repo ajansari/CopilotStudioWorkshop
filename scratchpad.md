@@ -14,3 +14,8 @@ An ODATA filter query that filters employee records by email. If the user's emai
 tolower(email) eq tolower('xyz@abc.com')
 
 css_942bfab98df0d5d77708921850473300353393dd152e9687c86897e690e82992
+
+Want to set up Azure AI Search for a premium RAG experience? (costs more money - tokens and cash, not credits): Watch https://www.youtube.com/watch?v=aDUVpI14hvg
+
+Want Dynamic Adaptive Cards: https://www.youtube.com/watch?v=RhIlzYHPCXo&pp=0gcJCTEAlc8ueATH
+
