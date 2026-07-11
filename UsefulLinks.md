@@ -6,7 +6,20 @@ Copilot Studio Saturdays - Free Monthly Meetups <https://www.copilotstudiosaturd
 
 OnlyCopilotFans - News and Copilot Studio learning <https://www.onlycopilotfans.com>
 
+## Copilot Studio Billing Rates & Licensing Guide
+
+MS Learn - Billing Rates and Management <https://learn.microsoft.com/en-us/microsoft-copilot-studio/requirements-messages-management>
+
+Copilot Studio Licensing Guide <https://go.microsoft.com/fwlink/?linkid=2320995>
+
+Forecast Agent's Copilot Credits <https://learn.microsoft.com/en-us/microsoft-copilot-studio/agent-usage-estimator>
+
+
 ## Copilot Studio Kit
+
+GitHub Repo for Copilot Studio Kit <https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit>
+
+How to Install Copilot Studio Kit <https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/kit-install#install-copilot-studio-kit-from-github>
 
 Copilot Agent Kit Homepage <https://microsoft.github.io/Power-CAT-Copilot-Studio-Kit/>
 
