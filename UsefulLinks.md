@@ -14,14 +14,19 @@ Copilot Studio Licensing Guide <https://go.microsoft.com/fwlink/?linkid=2320995>
 
 Forecast Agent's Copilot Credits <https://learn.microsoft.com/en-us/microsoft-copilot-studio/agent-usage-estimator>
 
+Manage Costs for Copilot Studio agents built on GitHub Copilot Harness <https://learn.microsoft.com/en-us/power-platform/admin/manage-usage-github-copilot-harness#prepare-for-the-end-of-preview-billing>
+
+Note: See Microsoft Copilot Credits Guide in this report (August 2026 version)
+
 ## Places to find Skills
 
 Copilot Studio Skills Library <https://microsoft.github.io/cat-agent-skills/>
 
+Copilot Studio Skill Recorder <https://github.com/microsoft/skill-recorder/releases/tag/v0.4.0>
+
 Copilot Cowork Cost Skill <https://github.com/microsoft/CoworkCost>
 
 Skills.sh (Agnostic) <https://www.skills.sh/>
-
 
 ## Copilot Studio Kit
 
@@ -41,10 +46,11 @@ Microsoft Copilot Studio Blog <https://www.microsoft.com/en-us/microsoft-copilot
 
 Microsoft Tech Community Copilot Studio Blog <https://techcommunity.microsoft.com/category/microsoft365copilot/blog/copilot-studio-blog>
 
-
 ## Microsoft Links
 
-Official Documentation <https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/>
+Official Documentation <https://learn.microsoft.com/en-us/microsoft-copilot-studio/>
+
+Official Guidance <https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/>
 
 Copilot Studio Adoption <https://adoption.microsoft.com/en-us/ai-agents/copilot-studio/>
 
@@ -58,6 +64,11 @@ Microsoft Power CAT Program Resources <https://microsoft.github.io/powercat/reso
 
 M365 Agent SDK Repo <https://github.com/microsoft/Agents/tree/main>
 
+## Copilot Adoption
+
+Copilot Analytics Hub <https://microsoft.github.io/Analytics-Hub/>
+
+Frontier Analytics for Copilot and agents <https://microsoft.github.io/CopilotAnalyticsLabs/>
 
 ## YouTube Videos
 
