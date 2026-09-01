@@ -36,6 +36,12 @@ Microsoft Tech Community Copilot Studio Blog <https://techcommunity.microsoft.co
 
 ## Microsoft Links
 
+Official Documentation <https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/>
+
+Copilot Studio Adoption <https://adoption.microsoft.com/en-us/ai-agents/copilot-studio/>
+
+Copilot Studio "Resources" <https://microsoft.github.io/agent-resources/copilot-studio/>
+
 Microsoft Copilot Studio Labs <https://github.com/microsoft/mcs-labs>
 
 Copilot Studio Agent Academy <https://microsoft.github.io/agent-academy/>
