@@ -14,6 +14,14 @@ Copilot Studio Licensing Guide <https://go.microsoft.com/fwlink/?linkid=2320995>
 
 Forecast Agent's Copilot Credits <https://learn.microsoft.com/en-us/microsoft-copilot-studio/agent-usage-estimator>
 
+## Places to find Skills
+
+Copilot Studio Skills Library <https://microsoft.github.io/cat-agent-skills/>
+
+Copilot Cowork Cost Skill <https://github.com/microsoft/CoworkCost>
+
+Skills.sh (Agnostic) <https://www.skills.sh/>
+
 
 ## Copilot Studio Kit
 
