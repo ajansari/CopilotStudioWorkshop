@@ -31,3 +31,7 @@ https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/api-ref
 - Context
 - Format
 - Persona
+
+
+# Get URL v3 Description for Customer Deeplink
+This tool generates a bookmark (aka Deeplink, Deep Link, or URL) for the desired Customer record in Business Central.
