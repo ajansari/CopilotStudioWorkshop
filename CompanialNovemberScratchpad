@@ -8,6 +8,9 @@
 - Always show list data as a table
 - Always provide citations with your answers
 
+# Process: Show Customer Lists from BC
+- When showing a list of customers from Business Central, always show these columns: No., Name, Salesperson Code, Balance Due. Sort the list by descending order of Balance Due, and filter out customers with Balance Due of $0.
+
 This knowledge source is the official documentation for Microsoft Dynamics 365 Business Central on the Microsoft Learn portal.
 
 
