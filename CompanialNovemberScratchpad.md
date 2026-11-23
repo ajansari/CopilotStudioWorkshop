@@ -51,3 +51,15 @@ https://www.youtube.com/watch?v=0cnBT61Hc9c
 # Video: How to create Adaptive Cards in Copilot Studio
 https://www.youtube.com/watch?v=HvUGUQrpHJQ
 https://www.youtube.com/watch?v=RhIlzYHPCXo << Adaptive Card with Dynamic Data (for example, dynamic data in drop down lists)
+
+
+# My prompt
+I want to onboard Customers into Business Central via this agent. This will happen either as a file upload, or as an incoming email (trigger). The process will be in this order:
+For each customer:
+1. Check if the customer already exists in Business Central by matching the name (match on lower case). If there is an exact match, do not import the customer, but notify the user after all good records as imported. If there is not an exact match but very similar match, ask the user if the record should be imported or not. Otherwise, import the customer (all fields except Contact Name)
+2. Check if the customer is US or international
+3. Assign salesperson code based on the following rules: US customers: JO (Jim Olive), International customer: OF (Otis Falls)
+4. Set credit limit: US customers: $50,000; International: $45,000
+5. Assign posting groups: Gen Bus Posting: US: DOMESTIC, International: EU; Customer Posting Group: All: DOMESTIC
+6. Update the customer record with the Contact Name.
+7. Send a welcome email to the Salesperson and to the Customer Contact.
