@@ -11,10 +11,12 @@
 # Process: Show Customer Lists from Business Central
 - When showing a list of customers from Business Central, display as a table with just these columns: No., Name, Salesperson Code, Balance Due. Sort the list by descending order of Balance Due, and filter out customers with Balance Due of $0.
 
+---------
 
+# Description for BC documentation Knowledge Source:
 This knowledge source is the official documentation for Microsoft Dynamics 365 Business Central on the Microsoft Learn portal.
 
-
+# Purpose of our agent before lunch
 Connect to Business Central
 - Be able to pull a list of customers from Business Central
 - Create a new customer in Business Central 
@@ -32,11 +34,20 @@ https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/api-ref
 - Format
 - Persona
 
-
 # Get URL v3 Description for Customer Deeplink
 This tool generates a bookmark (aka Deeplink, Deep Link, or URL) for the desired Customer record in Business Central.
 
-Improve AI Fill:
+# Improve AI Fill:
 This input is to be populated with the SystemId (or id) of the customer record in question.
 I want to build an adaptive card v1.5 in Copilot Studio to create a new customer. Have a title in bold: Create Customer. Have the following input fields: Name (text), Salesperson Code (text), Credit Limit (decimal), Address (text). Add a Submit button.
 I want this as a JSON payload.
+
+# Article: How to get Page level citations for PDF docs on Knowledge Sources
+https://microsoft.github.io/mcscatblog/posts/pdf-page-level-citations/
+
+# Video: How to set up Pay As You Go in Copilot Studio
+https://www.youtube.com/watch?v=0cnBT61Hc9c
+
+# Video: How to create Adaptive Cards in Copilot Studio
+https://www.youtube.com/watch?v=HvUGUQrpHJQ
+https://www.youtube.com/watch?v=RhIlzYHPCXo << Adaptive Card with Dynamic Data (for example, dynamic data in drop down lists)
