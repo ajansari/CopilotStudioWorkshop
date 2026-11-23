@@ -19,5 +19,11 @@ Connect to Business Central
 - Always show a link to the Customer record in Business Central.
 - Connect to a knowledge source that is BC documentation
 
+# BC API v2.0 Documentation:
+https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/api-reference/v2.0/resources/dynamics_customer
 
-
+# Prompting Cornerstones
+- Task
+- Context
+- Format
+- Persona
